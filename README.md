@@ -11,7 +11,7 @@ Este proyecto implementa un pipeline de analítica de datos de extremo a extremo
 El proyecto está diseñado bajo una arquitectura de tres capas analíticas:
 1. **Ingeniería de Datos y Simulación (Python):** Generación de comportamientos de compra realistas (siguiendo distribuciones probabilísticas como la Distribución Geométrica) usando `Pandas` y `NumPy`.
 2. **Persistencia e Integridad Relacional (SQL):** Modelado físico de base de datos relacional y aplicación de restricciones rígidas en **SQLite**.
-3. **Analítica Avanzada de Clientes (SQL & Python):** Segmentación matemática bajo el modelo RFM (Recency, Frequency, Monetary) utilizando funciones de ventana (`NTILE`) y visualización ejecutiva con `Seaborn`.
+3. **Analítica de Clientes (SQL & Python):** Segmentación matemática bajo el modelo RFM (Recency, Frequency, Monetary) utilizando funciones de ventana (`NTILE`) y visualización ejecutiva con `Seaborn`.
 
 ---
 
@@ -151,6 +151,6 @@ El análisis consolidado de la salud del negocio revela métricas críticas sobr
 
 1. Haz clic en el botón de **Open in Colab** en tu cuaderno o clona este repositorio de forma local:
    ```bash
-   git clone https://github.com/tu-usuario/Analytics-Transaccional-ECommerce-Segmentacion-RFM-Avanzada.git
+   git clone https://github.com/tu-usuario/Analytics-Transaccional-ECommerce-Segmentacion-RFM.git
    ```
 2. Ejecuta las celdas en orden. El script de Python creará la base de datos local `apexmarket.db` automáticamente utilizando librerías estándar (`sqlite3`, `pandas`, `numpy`, `matplotlib`, `seaborn`), por lo que no requieres instalar dependencias externas complejas.
