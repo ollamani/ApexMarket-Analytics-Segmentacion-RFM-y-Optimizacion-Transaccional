@@ -1,4 +1,5 @@
 # Analytics-Transaccional-ECommerce-Segmentacion-RFM
+[![Open In Colab](https://colab.research.google.com/github/ollamani/ApexMarket-Analytics-Segmentacion-RFM-y-Optimizacion-Transaccional/blob/main/Analytics_Transaccional_ECommerce_Segmentacion_RFM.ipynb)
 
 Este proyecto implementa un pipeline de analítica de datos de extremo a extremo (End-to-End) para evaluar el comportamiento transaccional, optimizar la retención de clientes y calcular el **Lifetime Value (LTV)** en una cohorte simulada de **1,000 clientes** con más de **3,500 transacciones** acumuladas durante un periodo de dos años (2024-2026).
 
@@ -15,7 +16,7 @@ El proyecto está diseñado bajo una arquitectura de tres capas analíticas:
 
 ---
 
-## 📐 1. Diseño y Modelado Relacional (SQL)
+## 1. Diseño y Modelado Relacional (SQL)
 
 Para garantizar la consistencia en el almacenamiento de transacciones de E-Commerce, se diseñó un esquema relacional normalizado compuesto por **4 tablas principales** con integridad referencial activa (`FOREIGN KEY`).
 
@@ -49,7 +50,7 @@ CREATE TABLE IF NOT EXISTS order_items (
 
 ---
 
-## 🎯 2. Extracción y Scoring RFM con SQL Server / SQLite
+## 2. Extracción y Scoring RFM con SQL Server / SQLite
 
 El núcleo analítico del proyecto utiliza Expresiones de Tabla Comunes (**CTEs secuenciales**) y funciones de ventana para segmentar a los usuarios en quintiles (del 1 al 5) según su comportamiento de compra.
 
@@ -89,7 +90,7 @@ FROM RFM_Scores;
 
 ---
 
-## 📈 3. Segmentación Estratégica y Visualización (Python)
+## 3. Segmentación Estratégica y Visualización (Python)
 
 Utilizando la lógica condicional de Pandas en Python, agrupamos las celdas numéricas en categorías de valor de negocio para que puedan ser utilizadas por los equipos de marketing y operaciones.
 
@@ -115,7 +116,7 @@ df_rfm['segmento_negocio'] = df_rfm.apply(definir_segmento, axis=1)
 
 ---
 
-## 📊 4. Reporte de Rendimiento Financiero y KPIs
+## 4. Reporte de Rendimiento Financiero y KPIs
 
 El análisis consolidado de la salud del negocio revela métricas críticas sobre la distribución de los ingresos en la tienda:
 
@@ -129,13 +130,13 @@ El análisis consolidado de la salud del negocio revela métricas críticas sobr
 
 *(Nota: Los valores numéricos anteriores son representativos y se actualizarán dinámicamente según la salida final de tu simulación en Colab).*
 
-### 🎯 Principales Hallazgos de Negocio:
+### Principales Hallazgos de Negocio:
 1. **Concentración del Ingreso (Ley de Pareto):** El 38% de la base de datos (VIP + Fieles) genera más del **73% de los ingresos totales**, validando la necesidad de implementar campañas de retención enfocadas.
 2. **Fuga Silenciosa ("At Risk"):** El segmento "At Risk" posee un LTV alto ($741.04) pero con una inactividad promedio de más de 160 días. Representa la mayor oportunidad de retorno de inversión para campañas de reactivación.
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 ├── data/
@@ -147,10 +148,10 @@ El análisis consolidado de la salud del negocio revela métricas críticas sobr
 
 ---
 
-## 🚀 Cómo Ejecutar el Proyecto en Google Colab
+## Cómo Ejecutar el Proyecto en Google Colab
 
 1. Haz clic en el botón de **Open in Colab** en tu cuaderno o clona este repositorio de forma local:
    ```bash
-   git clone https://github.com/tu-usuario/Analytics-Transaccional-ECommerce-Segmentacion-RFM.git
+   git clone https://github.com/ollamani/ApexMarket-Analytics-Segmentacion-RFM-y-Optimizacion-Transaccional.git
    ```
 2. Ejecuta las celdas en orden. El script de Python creará la base de datos local `apexmarket.db` automáticamente utilizando librerías estándar (`sqlite3`, `pandas`, `numpy`, `matplotlib`, `seaborn`), por lo que no requieres instalar dependencias externas complejas.
