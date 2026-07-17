@@ -1,5 +1,32 @@
 # Analytics-Transaccional-ECommerce-Segmentacion-RFM
-![Open In Colab](https://colab.research.google.com/github/ollamani/ApexMarket-Analytics-Segmentacion-RFM-y-Optimizacion-Transaccional/blob/main/Analytics_Transaccional_ECommerce_Segmentacion_RFM.ipynb)
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOxvMlXBl7pxEe/uP4A3PhG",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ollamani/ApexMarket-Analytics-Segmentacion-RFM-y-Optimizacion-Transaccional/blob/main/Analytics_Transaccional_ECommerce_Segmentacion_RFM.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    }
 
 Este proyecto implementa un pipeline de analítica de datos de extremo a extremo (End-to-End) para evaluar el comportamiento transaccional, optimizar la retención de clientes y calcular el **Lifetime Value (LTV)** en una cohorte simulada de **1,000 clientes** con más de **3,500 transacciones** acumuladas durante un periodo de dos años (2024-2026).
 
