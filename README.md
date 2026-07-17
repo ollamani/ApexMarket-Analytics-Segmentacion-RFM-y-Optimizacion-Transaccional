@@ -3,8 +3,6 @@
 
 Este proyecto implementa un pipeline de analítica de datos de extremo a extremo (End-to-End) para evaluar el comportamiento transaccional, optimizar la retención de clientes y calcular el **Lifetime Value (LTV)** en una cohorte simulada de **1,000 clientes** con más de **3,500 transacciones** acumuladas durante un periodo de dos años (2024-2026).
 
-[**Link al Dashboard Interactivo en Tableau Public**](https://public.tableau.com/app/profile/isa.v.zquez.garc.a/viz/TuDashboardDeTableau)
-
 ---
 
 ## Arquitectura del Proyecto
