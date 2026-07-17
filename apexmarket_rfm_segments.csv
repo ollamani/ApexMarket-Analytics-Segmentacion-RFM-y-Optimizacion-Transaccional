@@ -1,0 +1,1001 @@
+customer_id,customer_name,recency,frequency,monetary,r_score,f_score,m_score,rfm_cell,segmento_negocio
+289,Cliente_289,646,1,750.0,1,1,2,112,Hibernating / Lost
+393,Cliente_393,644,1,1860.0,1,2,3,123,Hibernating / Lost
+643,Cliente_643,624,1,2745.0,1,2,4,124,Hibernating / Lost
+229,Cliente_229,611,1,180.0,1,1,1,111,Hibernating / Lost
+253,Cliente_253,571,2,2800.0,1,3,4,134,At Risk / Can't Lose
+336,Cliente_336,567,1,220.0,1,1,1,111,Hibernating / Lost
+129,Cliente_129,559,1,355.0,1,1,1,111,Hibernating / Lost
+537,Cliente_537,552,1,1805.0,1,2,3,123,Hibernating / Lost
+42,Cliente_42,546,1,690.0,1,1,1,111,Hibernating / Lost
+714,Cliente_714,540,1,180.0,1,1,1,111,Hibernating / Lost
+431,Cliente_431,536,3,1945.0,1,3,3,133,At Risk / Can't Lose
+548,Cliente_548,526,1,635.0,1,1,1,111,Hibernating / Lost
+623,Cliente_623,526,1,1300.0,1,2,2,122,Hibernating / Lost
+444,Cliente_444,525,1,550.0,1,1,1,111,Hibernating / Lost
+324,Cliente_324,510,1,1070.0,1,1,2,112,Hibernating / Lost
+505,Cliente_505,509,1,275.0,1,1,1,111,Hibernating / Lost
+482,Cliente_482,496,2,1715.0,1,3,3,133,At Risk / Can't Lose
+310,Cliente_310,487,1,90.0,1,1,1,111,Hibernating / Lost
+298,Cliente_298,487,2,2350.0,1,3,3,133,At Risk / Can't Lose
+361,Cliente_361,486,1,35.0,1,1,1,111,Hibernating / Lost
+771,Cliente_771,483,1,2400.0,1,2,3,123,Hibernating / Lost
+154,Cliente_154,482,1,150.0,1,1,1,111,Hibernating / Lost
+344,Cliente_344,479,1,860.0,1,1,2,112,Hibernating / Lost
+277,Cliente_277,473,1,1830.0,1,2,3,123,Hibernating / Lost
+810,Cliente_810,473,2,1205.0,1,2,2,122,Hibernating / Lost
+55,Cliente_55,471,1,195.0,1,1,1,111,Hibernating / Lost
+273,Cliente_273,458,1,250.0,1,1,1,111,Hibernating / Lost
+317,Cliente_317,458,1,415.0,1,1,1,111,Hibernating / Lost
+787,Cliente_787,454,1,1650.0,1,2,2,122,Hibernating / Lost
+792,Cliente_792,452,1,465.0,1,1,1,111,Hibernating / Lost
+237,Cliente_237,451,1,750.0,1,1,2,112,Hibernating / Lost
+726,Cliente_726,451,2,1290.0,1,2,2,122,Hibernating / Lost
+143,Cliente_143,448,2,3530.0,1,3,4,134,At Risk / Can't Lose
+554,Cliente_554,447,1,435.0,1,1,1,111,Hibernating / Lost
+62,Cliente_62,445,2,1255.0,1,2,2,122,Hibernating / Lost
+754,Cliente_754,444,1,400.0,1,1,1,111,Hibernating / Lost
+359,Cliente_359,439,1,1535.0,1,2,2,122,Hibernating / Lost
+262,Cliente_262,438,1,2400.0,1,2,3,123,Hibernating / Lost
+501,Cliente_501,433,1,985.0,1,1,2,112,Hibernating / Lost
+521,Cliente_521,430,1,585.0,1,1,1,111,Hibernating / Lost
+564,Cliente_564,428,2,1265.0,1,2,2,122,Hibernating / Lost
+81,Cliente_81,427,1,2400.0,1,2,3,123,Hibernating / Lost
+739,Cliente_739,426,1,585.0,1,1,1,111,Hibernating / Lost
+765,Cliente_765,424,1,1060.0,1,1,2,112,Hibernating / Lost
+670,Cliente_670,422,1,540.0,1,1,1,111,Hibernating / Lost
+70,Cliente_70,420,1,400.0,1,1,1,111,Hibernating / Lost
+419,Cliente_419,420,1,510.0,1,1,1,111,Hibernating / Lost
+960,Cliente_960,411,1,510.0,1,1,1,111,Hibernating / Lost
+735,Cliente_735,406,1,2635.0,1,2,3,123,Hibernating / Lost
+145,Cliente_145,404,1,540.0,1,1,1,111,Hibernating / Lost
+166,Cliente_166,403,1,1790.0,1,2,3,123,Hibernating / Lost
+369,Cliente_369,401,1,900.0,1,1,2,112,Hibernating / Lost
+846,Cliente_846,401,2,1000.0,1,2,2,122,Hibernating / Lost
+919,Cliente_919,400,1,1320.0,1,2,2,122,Hibernating / Lost
+709,Cliente_709,399,1,85.0,1,1,1,111,Hibernating / Lost
+947,Cliente_947,399,2,570.0,1,2,1,121,Hibernating / Lost
+357,Cliente_357,395,1,2490.0,1,2,3,123,Hibernating / Lost
+580,Cliente_580,394,1,35.0,1,1,1,111,Hibernating / Lost
+259,Cliente_259,389,2,2350.0,1,3,3,133,At Risk / Can't Lose
+222,Cliente_222,389,2,3120.0,1,3,4,134,At Risk / Can't Lose
+385,Cliente_385,385,1,175.0,1,1,1,111,Hibernating / Lost
+844,Cliente_844,384,1,300.0,1,1,1,111,Hibernating / Lost
+148,Cliente_148,383,1,905.0,1,1,2,112,Hibernating / Lost
+836,Cliente_836,382,1,1765.0,1,2,3,123,Hibernating / Lost
+572,Cliente_572,381,1,400.0,1,1,1,111,Hibernating / Lost
+425,Cliente_425,370,2,1690.0,1,3,3,133,At Risk / Can't Lose
+608,Cliente_608,369,1,2250.0,1,2,3,123,Hibernating / Lost
+764,Cliente_764,366,1,560.0,1,1,1,111,Hibernating / Lost
+2,Cliente_2,364,1,150.0,1,1,1,111,Hibernating / Lost
+516,Cliente_516,363,1,320.0,1,1,1,111,Hibernating / Lost
+774,Cliente_774,362,1,2550.0,1,2,3,123,Hibernating / Lost
+235,Cliente_235,362,2,555.0,1,2,1,121,Hibernating / Lost
+641,Cliente_641,358,2,1975.0,1,3,3,133,At Risk / Can't Lose
+930,Cliente_930,357,1,125.0,1,1,1,111,Hibernating / Lost
+415,Cliente_415,357,1,460.0,1,1,1,111,Hibernating / Lost
+242,Cliente_242,357,1,715.0,1,1,1,111,Hibernating / Lost
+475,Cliente_475,356,1,85.0,1,1,1,111,Hibernating / Lost
+128,Cliente_128,353,1,500.0,1,1,1,111,Hibernating / Lost
+860,Cliente_860,353,1,2300.0,1,2,3,123,Hibernating / Lost
+221,Cliente_221,350,1,150.0,1,1,1,111,Hibernating / Lost
+639,Cliente_639,350,3,3150.0,1,3,4,134,At Risk / Can't Lose
+155,Cliente_155,349,1,65.0,1,1,1,111,Hibernating / Lost
+313,Cliente_313,349,1,465.0,1,1,1,111,Hibernating / Lost
+106,Cliente_106,348,1,2750.0,1,2,4,124,Hibernating / Lost
+723,Cliente_723,348,3,2135.0,1,3,3,133,At Risk / Can't Lose
+139,Cliente_139,343,1,1175.0,1,2,2,122,Hibernating / Lost
+57,Cliente_57,342,1,90.0,1,1,1,111,Hibernating / Lost
+630,Cliente_630,340,2,1665.0,1,3,3,133,At Risk / Can't Lose
+873,Cliente_873,339,3,1635.0,1,3,2,132,At Risk / Can't Lose
+550,Cliente_550,336,1,65.0,1,1,1,111,Hibernating / Lost
+12,Cliente_12,336,2,450.0,1,2,1,121,Hibernating / Lost
+19,Cliente_19,336,3,2135.0,1,3,3,133,At Risk / Can't Lose
+513,Cliente_513,333,3,3465.0,1,4,4,144,At Risk / Can't Lose
+499,Cliente_499,332,3,2720.0,1,3,4,134,At Risk / Can't Lose
+535,Cliente_535,332,3,4005.0,1,4,4,144,At Risk / Can't Lose
+380,Cliente_380,329,1,350.0,1,1,1,111,Hibernating / Lost
+85,Cliente_85,329,1,1530.0,1,2,2,122,Hibernating / Lost
+500,Cliente_500,329,2,1750.0,1,3,3,133,At Risk / Can't Lose
+183,Cliente_183,329,3,2300.0,1,3,3,133,At Risk / Can't Lose
+654,Cliente_654,329,5,6760.0,1,5,5,155,At Risk / Can't Lose
+341,Cliente_341,328,2,725.0,1,2,1,121,Hibernating / Lost
+573,Cliente_573,326,1,920.0,1,1,2,112,Hibernating / Lost
+30,Cliente_30,325,4,4565.0,1,4,4,144,At Risk / Can't Lose
+93,Cliente_93,324,1,170.0,1,1,1,111,Hibernating / Lost
+471,Cliente_471,324,1,1190.0,1,2,2,122,Hibernating / Lost
+213,Cliente_213,321,1,90.0,1,1,1,111,Hibernating / Lost
+681,Cliente_681,321,1,625.0,1,1,1,111,Hibernating / Lost
+647,Cliente_647,314,1,395.0,1,1,1,111,Hibernating / Lost
+997,Cliente_997,314,1,490.0,1,1,1,111,Hibernating / Lost
+523,Cliente_523,310,1,610.0,1,1,1,111,Hibernating / Lost
+674,Cliente_674,309,1,335.0,1,1,1,111,Hibernating / Lost
+931,Cliente_931,309,2,3185.0,1,3,4,134,At Risk / Can't Lose
+284,Cliente_284,306,2,1265.0,1,2,2,122,Hibernating / Lost
+152,Cliente_152,305,2,1180.0,1,2,2,122,Hibernating / Lost
+818,Cliente_818,302,1,785.0,1,1,2,112,Hibernating / Lost
+459,Cliente_459,300,1,400.0,1,1,1,111,Hibernating / Lost
+332,Cliente_332,296,2,2000.0,1,3,3,133,At Risk / Can't Lose
+423,Cliente_423,293,2,1265.0,1,2,2,122,Hibernating / Lost
+790,Cliente_790,290,1,720.0,1,1,1,111,Hibernating / Lost
+244,Cliente_244,290,2,915.0,1,2,2,122,Hibernating / Lost
+158,Cliente_158,287,1,785.0,1,1,2,112,Hibernating / Lost
+841,Cliente_841,287,1,2900.0,1,2,4,124,Hibernating / Lost
+117,Cliente_117,287,2,2105.0,1,3,3,133,At Risk / Can't Lose
+715,Cliente_715,285,1,750.0,1,1,2,112,Hibernating / Lost
+138,Cliente_138,284,1,510.0,1,1,1,111,Hibernating / Lost
+692,Cliente_692,284,1,1330.0,1,2,2,122,Hibernating / Lost
+618,Cliente_618,283,2,1635.0,1,2,2,122,Hibernating / Lost
+149,Cliente_149,283,3,2980.0,1,3,4,134,At Risk / Can't Lose
+358,Cliente_358,282,1,585.0,1,1,1,111,Hibernating / Lost
+376,Cliente_376,282,3,3940.0,1,4,4,144,At Risk / Can't Lose
+520,Cliente_520,282,4,3745.0,1,4,4,144,At Risk / Can't Lose
+829,Cliente_829,281,1,480.0,1,1,1,111,Hibernating / Lost
+130,Cliente_130,281,1,2465.0,1,2,3,123,Hibernating / Lost
+749,Cliente_749,281,2,1025.0,1,2,2,122,Hibernating / Lost
+337,Cliente_337,279,2,840.0,1,2,2,122,Hibernating / Lost
+413,Cliente_413,279,2,2355.0,1,3,3,133,At Risk / Can't Lose
+480,Cliente_480,278,2,945.0,1,2,2,122,Hibernating / Lost
+379,Cliente_379,277,2,865.0,1,2,2,122,Hibernating / Lost
+820,Cliente_820,276,1,110.0,1,1,1,111,Hibernating / Lost
+487,Cliente_487,275,2,5640.0,1,3,5,135,At Risk / Can't Lose
+791,Cliente_791,274,6,4150.0,1,5,4,154,At Risk / Can't Lose
+443,Cliente_443,272,5,5285.0,1,5,5,155,At Risk / Can't Lose
+731,Cliente_731,270,1,525.0,1,1,1,111,Hibernating / Lost
+833,Cliente_833,270,2,2260.0,1,3,3,133,At Risk / Can't Lose
+72,Cliente_72,268,3,3765.0,1,4,4,144,At Risk / Can't Lose
+197,Cliente_197,267,1,85.0,1,1,1,111,Hibernating / Lost
+452,Cliente_452,267,2,1460.0,1,2,2,122,Hibernating / Lost
+403,Cliente_403,267,2,1725.0,1,3,3,133,At Risk / Can't Lose
+508,Cliente_508,266,1,200.0,1,1,1,111,Hibernating / Lost
+708,Cliente_708,265,1,245.0,1,1,1,111,Hibernating / Lost
+60,Cliente_60,261,1,315.0,1,1,1,111,Hibernating / Lost
+146,Cliente_146,261,1,385.0,1,1,1,111,Hibernating / Lost
+37,Cliente_37,261,3,5050.0,1,4,5,145,At Risk / Can't Lose
+834,Cliente_834,261,5,7130.0,1,5,5,155,At Risk / Can't Lose
+118,Cliente_118,258,2,780.0,1,2,2,122,Hibernating / Lost
+586,Cliente_586,258,2,1460.0,1,2,2,122,Hibernating / Lost
+227,Cliente_227,257,1,2250.0,1,2,3,123,Hibernating / Lost
+611,Cliente_611,257,2,790.0,1,2,2,122,Hibernating / Lost
+203,Cliente_203,256,2,1095.0,1,2,2,122,Hibernating / Lost
+52,Cliente_52,256,3,5415.0,1,4,5,145,At Risk / Can't Lose
+268,Cliente_268,255,1,935.0,1,1,2,112,Hibernating / Lost
+922,Cliente_922,255,2,1235.0,1,2,2,122,Hibernating / Lost
+271,Cliente_271,254,1,305.0,1,1,1,111,Hibernating / Lost
+382,Cliente_382,253,3,2900.0,1,3,4,134,At Risk / Can't Lose
+395,Cliente_395,250,1,940.0,1,1,2,112,Hibernating / Lost
+356,Cliente_356,250,2,1420.0,1,2,2,122,Hibernating / Lost
+74,Cliente_74,249,1,350.0,1,1,1,111,Hibernating / Lost
+291,Cliente_291,249,1,1735.0,1,2,3,123,Hibernating / Lost
+975,Cliente_975,248,3,1840.0,1,3,3,133,At Risk / Can't Lose
+418,Cliente_418,247,1,375.0,1,1,1,111,Hibernating / Lost
+741,Cliente_741,246,1,3430.0,1,2,4,124,Hibernating / Lost
+462,Cliente_462,246,4,2515.0,1,4,3,143,At Risk / Can't Lose
+330,Cliente_330,244,1,150.0,1,1,1,111,Hibernating / Lost
+306,Cliente_306,243,1,1650.0,1,2,2,122,Hibernating / Lost
+428,Cliente_428,242,2,680.0,1,2,1,121,Hibernating / Lost
+321,Cliente_321,242,2,2335.0,1,3,3,133,At Risk / Can't Lose
+54,Cliente_54,241,1,710.0,1,1,1,111,Hibernating / Lost
+579,Cliente_579,240,1,65.0,1,1,1,111,Hibernating / Lost
+525,Cliente_525,240,1,295.0,1,1,1,111,Hibernating / Lost
+649,Cliente_649,240,1,435.0,1,1,1,111,Hibernating / Lost
+637,Cliente_637,237,2,2335.0,1,3,3,133,At Risk / Can't Lose
+258,Cliente_258,237,4,5040.0,1,4,5,145,At Risk / Can't Lose
+531,Cliente_531,236,1,90.0,1,1,1,111,Hibernating / Lost
+511,Cliente_511,235,2,3530.0,1,3,4,134,At Risk / Can't Lose
+832,Cliente_832,234,1,350.0,1,1,1,111,Hibernating / Lost
+7,Cliente_7,234,1,485.0,1,1,1,111,Hibernating / Lost
+849,Cliente_849,234,1,2650.0,1,2,3,123,Hibernating / Lost
+927,Cliente_927,234,2,1115.0,1,2,2,122,Hibernating / Lost
+610,Cliente_610,234,3,2320.0,1,3,3,133,At Risk / Can't Lose
+690,Cliente_690,233,3,2230.0,1,3,3,133,At Risk / Can't Lose
+65,Cliente_65,233,3,3295.0,1,3,4,134,At Risk / Can't Lose
+360,Cliente_360,230,1,110.0,1,1,1,111,Hibernating / Lost
+190,Cliente_190,230,1,210.0,1,1,1,111,Hibernating / Lost
+256,Cliente_256,229,6,2330.0,1,5,3,153,At Risk / Can't Lose
+998,Cliente_998,228,4,1245.0,1,4,2,142,At Risk / Can't Lose
+251,Cliente_251,228,4,4910.0,1,4,5,145,At Risk / Can't Lose
+967,Cliente_967,227,2,3140.0,1,3,4,134,At Risk / Can't Lose
+908,Cliente_908,227,3,1695.0,1,3,3,133,At Risk / Can't Lose
+517,Cliente_517,224,2,1450.0,1,2,2,122,Hibernating / Lost
+716,Cliente_716,223,2,790.0,1,2,2,122,Hibernating / Lost
+31,Cliente_31,221,2,1900.0,2,3,3,233,At Risk / Can't Lose
+918,Cliente_918,221,4,4900.0,2,4,5,245,At Risk / Can't Lose
+962,Cliente_962,220,1,1460.0,2,2,2,222,Hibernating / Lost
+718,Cliente_718,220,1,1950.0,2,2,3,223,Hibernating / Lost
+212,Cliente_212,219,1,675.0,2,1,1,211,Hibernating / Lost
+1,Cliente_1,219,4,3835.0,2,4,4,244,At Risk / Can't Lose
+722,Cliente_722,218,5,1485.0,2,4,2,242,At Risk / Can't Lose
+614,Cliente_614,217,4,1845.0,2,4,3,243,At Risk / Can't Lose
+888,Cliente_888,216,1,340.0,2,1,1,211,Hibernating / Lost
+562,Cliente_562,216,1,990.0,2,1,2,212,Hibernating / Lost
+775,Cliente_775,216,1,1600.0,2,2,2,222,Hibernating / Lost
+663,Cliente_663,215,4,3725.0,2,4,4,244,At Risk / Can't Lose
+596,Cliente_596,214,1,90.0,2,1,1,211,Hibernating / Lost
+416,Cliente_416,212,2,730.0,2,2,2,222,Hibernating / Lost
+524,Cliente_524,212,2,1795.0,2,3,3,233,At Risk / Can't Lose
+706,Cliente_706,211,1,1690.0,2,2,3,223,Hibernating / Lost
+900,Cliente_900,211,1,1765.0,2,2,3,223,Hibernating / Lost
+250,Cliente_250,211,2,1830.0,2,3,3,233,At Risk / Can't Lose
+779,Cliente_779,211,2,5170.0,2,3,5,235,At Risk / Can't Lose
+688,Cliente_688,211,3,1480.0,2,3,2,232,At Risk / Can't Lose
+301,Cliente_301,211,5,5060.0,2,5,5,255,At Risk / Can't Lose
+742,Cliente_742,209,1,65.0,2,1,1,211,Hibernating / Lost
+115,Cliente_115,209,1,550.0,2,1,1,211,Hibernating / Lost
+933,Cliente_933,209,1,1005.0,2,1,2,212,Hibernating / Lost
+365,Cliente_365,208,1,250.0,2,1,1,211,Hibernating / Lost
+878,Cliente_878,208,1,2430.0,2,2,3,223,Hibernating / Lost
+640,Cliente_640,208,5,5125.0,2,5,5,255,At Risk / Can't Lose
+192,Cliente_192,206,1,85.0,2,1,1,211,Hibernating / Lost
+269,Cliente_269,206,4,3240.0,2,4,4,244,At Risk / Can't Lose
+950,Cliente_950,206,5,6465.0,2,5,5,255,At Risk / Can't Lose
+911,Cliente_911,205,3,4525.0,2,4,4,244,At Risk / Can't Lose
+135,Cliente_135,204,1,440.0,2,1,1,211,Hibernating / Lost
+625,Cliente_625,204,2,760.0,2,2,2,222,Hibernating / Lost
+339,Cliente_339,204,2,765.0,2,2,2,222,Hibernating / Lost
+207,Cliente_207,204,4,4090.0,2,4,4,244,At Risk / Can't Lose
+490,Cliente_490,203,1,800.0,2,1,2,212,Hibernating / Lost
+226,Cliente_226,203,2,1580.0,2,2,2,222,Hibernating / Lost
+406,Cliente_406,203,4,3970.0,2,4,4,244,At Risk / Can't Lose
+483,Cliente_483,202,3,6320.0,2,4,5,245,At Risk / Can't Lose
+342,Cliente_342,201,1,35.0,2,1,1,211,Hibernating / Lost
+978,Cliente_978,201,1,250.0,2,1,1,211,Hibernating / Lost
+778,Cliente_778,201,1,385.0,2,1,1,211,Hibernating / Lost
+698,Cliente_698,201,1,470.0,2,1,1,211,Hibernating / Lost
+17,Cliente_17,199,1,370.0,2,1,1,211,Hibernating / Lost
+802,Cliente_802,199,1,400.0,2,1,1,211,Hibernating / Lost
+686,Cliente_686,198,1,90.0,2,1,1,211,Hibernating / Lost
+827,Cliente_827,198,2,1690.0,2,3,3,233,At Risk / Can't Lose
+599,Cliente_599,197,2,100.0,2,2,1,221,Hibernating / Lost
+429,Cliente_429,197,2,3265.0,2,3,4,234,At Risk / Can't Lose
+366,Cliente_366,196,1,550.0,2,1,1,211,Hibernating / Lost
+84,Cliente_84,195,2,600.0,2,2,1,221,Hibernating / Lost
+545,Cliente_545,195,3,1465.0,2,3,2,232,At Risk / Can't Lose
+707,Cliente_707,194,1,955.0,2,1,2,212,Hibernating / Lost
+121,Cliente_121,194,4,805.0,2,4,2,242,At Risk / Can't Lose
+411,Cliente_411,193,1,1255.0,2,2,2,222,Hibernating / Lost
+127,Cliente_127,192,1,675.0,2,1,1,211,Hibernating / Lost
+21,Cliente_21,192,2,1730.0,2,3,3,233,At Risk / Can't Lose
+534,Cliente_534,192,2,3710.0,2,3,4,234,At Risk / Can't Lose
+515,Cliente_515,191,3,2450.0,2,3,3,233,At Risk / Can't Lose
+738,Cliente_738,191,4,3075.0,2,4,4,244,At Risk / Can't Lose
+67,Cliente_67,190,1,65.0,2,1,1,211,Hibernating / Lost
+609,Cliente_609,190,3,735.0,2,3,2,232,At Risk / Can't Lose
+109,Cliente_109,190,3,2555.0,2,3,3,233,At Risk / Can't Lose
+196,Cliente_196,190,4,4350.0,2,4,4,244,At Risk / Can't Lose
+469,Cliente_469,189,1,1750.0,2,2,3,223,Hibernating / Lost
+679,Cliente_679,189,7,5475.0,2,5,5,255,At Risk / Can't Lose
+555,Cliente_555,188,1,1885.0,2,2,3,223,Hibernating / Lost
+876,Cliente_876,188,3,1370.0,2,3,2,232,At Risk / Can't Lose
+439,Cliente_439,186,1,90.0,2,1,1,211,Hibernating / Lost
+449,Cliente_449,184,1,145.0,2,1,1,211,Hibernating / Lost
+982,Cliente_982,183,1,1865.0,2,2,3,223,Hibernating / Lost
+94,Cliente_94,182,1,2665.0,2,2,3,223,Hibernating / Lost
+693,Cliente_693,182,1,3200.0,2,2,4,224,Hibernating / Lost
+239,Cliente_239,182,3,1810.0,2,3,3,233,At Risk / Can't Lose
+307,Cliente_307,180,2,2715.0,2,3,4,234,At Risk / Can't Lose
+496,Cliente_496,180,8,6945.0,2,5,5,255,At Risk / Can't Lose
+170,Cliente_170,179,2,1085.0,2,2,2,222,Hibernating / Lost
+6,Cliente_6,178,4,2815.0,2,4,4,244,At Risk / Can't Lose
+417,Cliente_417,178,7,8860.0,2,5,5,255,At Risk / Can't Lose
+285,Cliente_285,177,1,85.0,2,1,1,211,Hibernating / Lost
+561,Cliente_561,177,2,455.0,2,2,1,221,Hibernating / Lost
+796,Cliente_796,177,2,1350.0,2,2,2,222,Hibernating / Lost
+653,Cliente_653,176,4,7760.0,2,4,5,245,At Risk / Can't Lose
+63,Cliente_63,175,2,810.0,2,2,2,222,Hibernating / Lost
+246,Cliente_246,174,1,2435.0,2,2,3,223,Hibernating / Lost
+77,Cliente_77,173,1,770.0,2,1,2,212,Hibernating / Lost
+98,Cliente_98,173,4,2670.0,2,4,3,243,At Risk / Can't Lose
+234,Cliente_234,172,1,175.0,2,1,1,211,Hibernating / Lost
+134,Cliente_134,172,1,1885.0,2,2,3,223,Hibernating / Lost
+897,Cliente_897,172,4,980.0,2,4,2,242,At Risk / Can't Lose
+948,Cliente_948,171,1,1265.0,2,2,2,222,Hibernating / Lost
+90,Cliente_90,171,5,3750.0,2,4,4,244,At Risk / Can't Lose
+33,Cliente_33,171,5,5355.0,2,5,5,255,At Risk / Can't Lose
+942,Cliente_942,171,8,11515.0,2,5,5,255,At Risk / Can't Lose
+782,Cliente_782,170,1,505.0,2,1,1,211,Hibernating / Lost
+903,Cliente_903,170,2,460.0,2,2,1,221,Hibernating / Lost
+509,Cliente_509,170,2,585.0,2,2,1,221,Hibernating / Lost
+675,Cliente_675,169,1,1470.0,2,2,2,222,Hibernating / Lost
+182,Cliente_182,169,2,855.0,2,2,2,222,Hibernating / Lost
+826,Cliente_826,169,4,2575.0,2,4,3,243,At Risk / Can't Lose
+451,Cliente_451,168,1,1570.0,2,2,2,222,Hibernating / Lost
+662,Cliente_662,167,2,1635.0,2,3,2,232,At Risk / Can't Lose
+36,Cliente_36,166,2,2170.0,2,3,3,233,At Risk / Can't Lose
+314,Cliente_314,165,1,235.0,2,1,1,211,Hibernating / Lost
+619,Cliente_619,165,1,690.0,2,1,1,211,Hibernating / Lost
+794,Cliente_794,165,2,1755.0,2,3,3,233,At Risk / Can't Lose
+793,Cliente_793,165,3,825.0,2,3,2,232,At Risk / Can't Lose
+334,Cliente_334,164,1,1010.0,2,1,2,212,Hibernating / Lost
+766,Cliente_766,164,3,1370.0,2,3,2,232,At Risk / Can't Lose
+923,Cliente_923,164,4,2615.0,2,4,3,243,At Risk / Can't Lose
+904,Cliente_904,164,5,3460.0,2,4,4,244,At Risk / Can't Lose
+169,Cliente_169,163,2,1925.0,2,3,3,233,At Risk / Can't Lose
+756,Cliente_756,163,6,7425.0,2,5,5,255,At Risk / Can't Lose
+538,Cliente_538,162,2,3395.0,2,3,4,234,At Risk / Can't Lose
+69,Cliente_69,162,4,1665.0,2,4,3,243,At Risk / Can't Lose
+193,Cliente_193,161,1,1200.0,2,2,2,222,Hibernating / Lost
+648,Cliente_648,161,2,2985.0,2,3,4,234,At Risk / Can't Lose
+492,Cliente_492,161,3,2285.0,2,3,3,233,At Risk / Can't Lose
+595,Cliente_595,160,5,2515.0,2,4,3,243,At Risk / Can't Lose
+921,Cliente_921,159,3,1310.0,2,3,2,232,At Risk / Can't Lose
+497,Cliente_497,159,5,3865.0,2,4,4,244,At Risk / Can't Lose
+743,Cliente_743,158,5,6395.0,2,5,5,255,At Risk / Can't Lose
+786,Cliente_786,157,2,2475.0,2,3,3,233,At Risk / Can't Lose
+518,Cliente_518,157,2,3000.0,2,3,4,234,At Risk / Can't Lose
+243,Cliente_243,157,3,2320.0,2,3,3,233,At Risk / Can't Lose
+448,Cliente_448,156,3,1565.0,2,3,2,232,At Risk / Can't Lose
+456,Cliente_456,156,4,1430.0,2,4,2,242,At Risk / Can't Lose
+560,Cliente_560,155,1,350.0,2,1,1,211,Hibernating / Lost
+565,Cliente_565,154,2,185.0,2,2,1,221,Hibernating / Lost
+803,Cliente_803,153,2,650.0,2,2,1,221,Hibernating / Lost
+536,Cliente_536,153,2,1270.0,2,2,2,222,Hibernating / Lost
+905,Cliente_905,152,2,1430.0,2,2,2,222,Hibernating / Lost
+809,Cliente_809,151,4,3685.0,2,4,4,244,At Risk / Can't Lose
+61,Cliente_61,150,1,90.0,2,1,1,211,Hibernating / Lost
+249,Cliente_249,150,1,90.0,2,1,1,211,Hibernating / Lost
+103,Cliente_103,150,1,1200.0,2,2,2,222,Hibernating / Lost
+760,Cliente_760,150,2,1920.0,2,3,3,233,At Risk / Can't Lose
+468,Cliente_468,150,5,3415.0,2,4,4,244,At Risk / Can't Lose
+770,Cliente_770,148,1,1785.0,2,2,3,223,Hibernating / Lost
+602,Cliente_602,148,2,2115.0,2,3,3,233,At Risk / Can't Lose
+116,Cliente_116,148,2,3020.0,2,3,4,234,At Risk / Can't Lose
+769,Cliente_769,148,4,1745.0,2,4,3,243,At Risk / Can't Lose
+175,Cliente_175,148,4,5290.0,2,4,5,245,At Risk / Can't Lose
+181,Cliente_181,147,1,230.0,2,1,1,211,Hibernating / Lost
+963,Cliente_963,147,3,2570.0,2,3,3,233,At Risk / Can't Lose
+650,Cliente_650,146,1,565.0,2,1,1,211,Hibernating / Lost
+616,Cliente_616,146,1,1700.0,2,2,3,223,Hibernating / Lost
+728,Cliente_728,146,2,660.0,2,2,1,221,Hibernating / Lost
+426,Cliente_426,145,3,810.0,2,3,2,232,At Risk / Can't Lose
+430,Cliente_430,145,3,1270.0,2,3,2,232,At Risk / Can't Lose
+730,Cliente_730,144,3,3045.0,2,3,4,234,At Risk / Can't Lose
+869,Cliente_869,144,4,1005.0,2,4,2,242,At Risk / Can't Lose
+396,Cliente_396,144,7,6400.0,2,5,5,255,At Risk / Can't Lose
+577,Cliente_577,143,2,1110.0,2,2,2,222,Hibernating / Lost
+82,Cliente_82,143,5,8210.0,2,5,5,255,At Risk / Can't Lose
+808,Cliente_808,140,1,400.0,2,1,1,211,Hibernating / Lost
+992,Cliente_992,140,1,1575.0,2,2,2,222,Hibernating / Lost
+455,Cliente_455,139,2,1905.0,2,3,3,233,At Risk / Can't Lose
+97,Cliente_97,137,1,445.0,2,1,1,211,Hibernating / Lost
+725,Cliente_725,137,3,3760.0,2,4,4,244,At Risk / Can't Lose
+137,Cliente_137,136,1,85.0,2,1,1,211,Hibernating / Lost
+407,Cliente_407,136,1,105.0,2,1,1,211,Hibernating / Lost
+800,Cliente_800,136,5,2535.0,2,4,3,243,At Risk / Can't Lose
+447,Cliente_447,136,6,5750.0,2,5,5,255,At Risk / Can't Lose
+656,Cliente_656,134,1,1150.0,2,2,2,222,Hibernating / Lost
+437,Cliente_437,134,2,3240.0,2,3,4,234,At Risk / Can't Lose
+45,Cliente_45,134,4,5320.0,2,4,5,245,At Risk / Can't Lose
+971,Cliente_971,133,1,1200.0,2,2,2,222,Hibernating / Lost
+204,Cliente_204,133,2,2305.0,2,3,3,233,At Risk / Can't Lose
+934,Cliente_934,132,1,525.0,2,1,1,211,Hibernating / Lost
+926,Cliente_926,132,2,1505.0,2,2,2,222,Hibernating / Lost
+195,Cliente_195,132,2,2575.0,2,3,3,233,At Risk / Can't Lose
+582,Cliente_582,132,2,3810.0,2,3,4,234,At Risk / Can't Lose
+659,Cliente_659,132,3,2610.0,2,3,3,233,At Risk / Can't Lose
+959,Cliente_959,132,5,1225.0,2,4,2,242,At Risk / Can't Lose
+831,Cliente_831,132,6,2305.0,2,5,3,253,At Risk / Can't Lose
+142,Cliente_142,131,2,790.0,2,2,2,222,Hibernating / Lost
+875,Cliente_875,131,3,1145.0,2,3,2,232,At Risk / Can't Lose
+894,Cliente_894,131,3,2920.0,2,3,4,234,At Risk / Can't Lose
+952,Cliente_952,131,5,3485.0,2,4,4,244,At Risk / Can't Lose
+976,Cliente_976,129,2,575.0,2,2,1,221,Hibernating / Lost
+333,Cliente_333,129,2,925.0,2,2,2,222,Hibernating / Lost
+870,Cliente_870,128,3,4860.0,2,4,5,245,At Risk / Can't Lose
+435,Cliente_435,128,6,2620.0,2,5,3,253,At Risk / Can't Lose
+935,Cliente_935,127,1,1440.0,2,2,2,222,Hibernating / Lost
+248,Cliente_248,127,3,585.0,2,3,1,231,At Risk / Can't Lose
+704,Cliente_704,127,6,3500.0,2,5,4,254,At Risk / Can't Lose
+713,Cliente_713,126,1,640.0,2,1,1,211,Hibernating / Lost
+629,Cliente_629,126,3,5065.0,2,4,5,245,At Risk / Can't Lose
+446,Cliente_446,126,3,5425.0,2,4,5,245,At Risk / Can't Lose
+320,Cliente_320,126,5,7195.0,2,5,5,255,At Risk / Can't Lose
+990,Cliente_990,126,6,3270.0,2,5,4,254,At Risk / Can't Lose
+329,Cliente_329,126,6,4675.0,2,5,5,255,At Risk / Can't Lose
+408,Cliente_408,125,1,1200.0,2,2,2,222,Hibernating / Lost
+936,Cliente_936,124,1,1330.0,2,2,2,222,Hibernating / Lost
+472,Cliente_472,124,4,3290.0,2,4,4,244,At Risk / Can't Lose
+576,Cliente_576,124,8,5940.0,2,5,5,255,At Risk / Can't Lose
+386,Cliente_386,123,2,710.0,2,2,1,221,Hibernating / Lost
+15,Cliente_15,123,3,2280.0,2,3,3,233,At Risk / Can't Lose
+868,Cliente_868,122,1,90.0,2,1,1,211,Hibernating / Lost
+838,Cliente_838,122,1,435.0,3,1,1,311,Hibernating / Lost
+941,Cliente_941,122,2,1730.0,3,3,3,333,Loyal Customers
+712,Cliente_712,122,3,2955.0,3,3,4,334,Loyal Customers
+299,Cliente_299,122,3,5070.0,3,4,5,345,Loyal Customers
+598,Cliente_598,122,4,2150.0,3,4,3,343,Loyal Customers
+232,Cliente_232,121,2,1395.0,3,2,2,322,Hibernating / Lost
+612,Cliente_612,120,2,1235.0,3,2,2,322,Hibernating / Lost
+626,Cliente_626,120,2,1555.0,3,2,2,322,Hibernating / Lost
+151,Cliente_151,120,2,1680.0,3,3,3,333,Loyal Customers
+691,Cliente_691,120,4,4070.0,3,4,4,344,Loyal Customers
+390,Cliente_390,120,6,3750.0,3,5,4,354,Loyal Customers
+825,Cliente_825,119,1,990.0,3,1,2,312,Hibernating / Lost
+131,Cliente_131,119,2,1450.0,3,2,2,322,Hibernating / Lost
+578,Cliente_578,119,3,1795.0,3,3,3,333,Loyal Customers
+734,Cliente_734,118,2,1535.0,3,2,2,322,Hibernating / Lost
+450,Cliente_450,118,4,2650.0,3,4,3,343,Loyal Customers
+26,Cliente_26,118,6,2680.0,3,5,3,353,Loyal Customers
+113,Cliente_113,117,1,85.0,3,1,1,311,Hibernating / Lost
+373,Cliente_373,117,2,2310.0,3,3,3,333,Loyal Customers
+898,Cliente_898,117,8,4110.0,3,5,4,354,Loyal Customers
+811,Cliente_811,116,3,2020.0,3,3,3,333,Loyal Customers
+590,Cliente_590,116,3,2395.0,3,3,3,333,Loyal Customers
+252,Cliente_252,116,5,3035.0,3,4,4,344,Loyal Customers
+759,Cliente_759,116,8,3610.0,3,5,4,354,Loyal Customers
+436,Cliente_436,115,1,235.0,3,1,1,311,Hibernating / Lost
+773,Cliente_773,115,1,285.0,3,1,1,311,Hibernating / Lost
+727,Cliente_727,115,1,490.0,3,1,1,311,Hibernating / Lost
+391,Cliente_391,115,1,780.0,3,1,2,312,Hibernating / Lost
+224,Cliente_224,115,2,755.0,3,2,2,322,Hibernating / Lost
+76,Cliente_76,115,3,3260.0,3,3,4,334,Loyal Customers
+223,Cliente_223,115,5,5285.0,3,5,5,355,Loyal Customers
+687,Cliente_687,114,2,1810.0,3,3,3,333,Loyal Customers
+530,Cliente_530,114,3,1780.0,3,3,3,333,Loyal Customers
+206,Cliente_206,113,3,2215.0,3,3,3,333,Loyal Customers
+28,Cliente_28,112,1,2665.0,3,2,3,323,Hibernating / Lost
+783,Cliente_783,112,2,360.0,3,2,1,321,Hibernating / Lost
+752,Cliente_752,112,8,6130.0,3,5,5,355,Loyal Customers
+957,Cliente_957,111,2,950.0,3,2,2,322,Hibernating / Lost
+575,Cliente_575,111,5,5635.0,3,5,5,355,Loyal Customers
+559,Cliente_559,110,2,2100.0,3,3,3,333,Loyal Customers
+125,Cliente_125,110,7,2700.0,3,5,4,354,Loyal Customers
+570,Cliente_570,109,1,65.0,3,1,1,311,Hibernating / Lost
+225,Cliente_225,108,2,1615.0,3,2,2,322,Hibernating / Lost
+689,Cliente_689,108,3,5610.0,3,4,5,345,Loyal Customers
+928,Cliente_928,108,8,5835.0,3,5,5,355,Loyal Customers
+279,Cliente_279,107,1,250.0,3,1,1,311,Hibernating / Lost
+412,Cliente_412,107,1,515.0,3,1,1,311,Hibernating / Lost
+929,Cliente_929,107,3,2180.0,3,3,3,333,Loyal Customers
+309,Cliente_309,107,4,1760.0,3,4,3,343,Loyal Customers
+812,Cliente_812,106,1,760.0,3,1,2,312,Hibernating / Lost
+491,Cliente_491,106,1,945.0,3,1,2,312,Hibernating / Lost
+383,Cliente_383,106,4,2340.0,3,4,3,343,Loyal Customers
+533,Cliente_533,106,8,10920.0,3,5,5,355,Loyal Customers
+540,Cliente_540,105,3,1980.0,3,3,3,333,Loyal Customers
+401,Cliente_401,104,1,460.0,3,1,1,311,Hibernating / Lost
+541,Cliente_541,104,1,1410.0,3,2,2,322,Hibernating / Lost
+705,Cliente_705,104,2,1690.0,3,3,3,333,Loyal Customers
+874,Cliente_874,104,3,2095.0,3,3,3,333,Loyal Customers
+801,Cliente_801,104,4,3780.0,3,4,4,344,Loyal Customers
+685,Cliente_685,104,4,4195.0,3,4,4,344,Loyal Customers
+210,Cliente_210,103,1,295.0,3,1,1,311,Hibernating / Lost
+969,Cliente_969,103,1,420.0,3,1,1,311,Hibernating / Lost
+400,Cliente_400,103,1,1375.0,3,2,2,322,Hibernating / Lost
+241,Cliente_241,103,3,2935.0,3,3,4,334,Loyal Customers
+797,Cliente_797,103,6,4460.0,3,5,4,354,Loyal Customers
+10,Cliente_10,101,1,3220.0,3,2,4,324,Hibernating / Lost
+631,Cliente_631,101,3,1790.0,3,3,3,333,Loyal Customers
+73,Cliente_73,100,3,2990.0,3,3,4,334,Loyal Customers
+172,Cliente_172,100,8,6285.0,3,5,5,355,Loyal Customers
+512,Cliente_512,99,1,860.0,3,1,2,312,Hibernating / Lost
+173,Cliente_173,99,1,1660.0,3,2,2,322,Hibernating / Lost
+454,Cliente_454,98,1,1365.0,3,2,2,322,Hibernating / Lost
+857,Cliente_857,98,3,640.0,3,3,1,331,Loyal Customers
+476,Cliente_476,98,3,1075.0,3,3,2,332,Loyal Customers
+569,Cliente_569,98,3,3375.0,3,4,4,344,Loyal Customers
+41,Cliente_41,98,6,2915.0,3,5,4,354,Loyal Customers
+335,Cliente_335,97,2,1195.0,3,2,2,322,Hibernating / Lost
+211,Cliente_211,97,4,6025.0,3,4,5,345,Loyal Customers
+539,Cliente_539,97,5,4805.0,3,4,5,345,Loyal Customers
+162,Cliente_162,97,5,5940.0,3,5,5,355,Loyal Customers
+657,Cliente_657,97,6,4225.0,3,5,4,354,Loyal Customers
+133,Cliente_133,96,2,1610.0,3,2,2,322,Hibernating / Lost
+39,Cliente_39,96,6,7155.0,3,5,5,355,Loyal Customers
+883,Cliente_883,95,2,185.0,3,2,1,321,Hibernating / Lost
+916,Cliente_916,95,2,350.0,3,2,1,321,Hibernating / Lost
+200,Cliente_200,95,2,1105.0,3,2,2,322,Hibernating / Lost
+267,Cliente_267,95,3,2530.0,3,3,3,333,Loyal Customers
+776,Cliente_776,95,4,1285.0,3,4,2,342,Loyal Customers
+410,Cliente_410,95,8,5235.0,3,5,5,355,Loyal Customers
+164,Cliente_164,94,2,2945.0,3,3,4,334,Loyal Customers
+751,Cliente_751,93,1,215.0,3,1,1,311,Hibernating / Lost
+270,Cliente_270,93,1,1535.0,3,2,2,322,Hibernating / Lost
+351,Cliente_351,93,3,480.0,3,3,1,331,Loyal Customers
+168,Cliente_168,92,1,120.0,3,1,1,311,Hibernating / Lost
+219,Cliente_219,92,1,945.0,3,1,2,312,Hibernating / Lost
+842,Cliente_842,92,2,1250.0,3,2,2,322,Hibernating / Lost
+303,Cliente_303,91,1,300.0,3,1,1,311,Hibernating / Lost
+177,Cliente_177,91,1,785.0,3,1,2,312,Hibernating / Lost
+899,Cliente_899,91,2,920.0,3,2,2,322,Hibernating / Lost
+603,Cliente_603,91,4,1765.0,3,4,3,343,Loyal Customers
+893,Cliente_893,91,4,4100.0,3,4,4,344,Loyal Customers
+68,Cliente_68,90,1,1200.0,3,2,2,322,Hibernating / Lost
+174,Cliente_174,89,1,170.0,3,1,1,311,Hibernating / Lost
+901,Cliente_901,89,1,3060.0,3,2,4,324,Hibernating / Lost
+519,Cliente_519,89,3,2365.0,3,3,3,333,Loyal Customers
+866,Cliente_866,89,3,2865.0,3,3,4,334,Loyal Customers
+185,Cliente_185,89,3,3255.0,3,3,4,334,Loyal Customers
+798,Cliente_798,89,4,3025.0,3,4,4,344,Loyal Customers
+558,Cliente_558,88,2,1190.0,3,2,2,322,Hibernating / Lost
+122,Cliente_122,88,3,285.0,3,3,1,331,Loyal Customers
+478,Cliente_478,88,7,5130.0,3,5,5,355,Loyal Customers
+594,Cliente_594,87,1,750.0,3,1,2,312,Hibernating / Lost
+340,Cliente_340,87,1,2150.0,3,2,3,323,Hibernating / Lost
+498,Cliente_498,87,4,2090.0,3,4,3,343,Loyal Customers
+632,Cliente_632,87,8,6780.0,3,5,5,355,Loyal Customers
+123,Cliente_123,86,1,2770.0,3,2,4,324,Hibernating / Lost
+964,Cliente_964,86,5,2290.0,3,4,3,343,Loyal Customers
+635,Cliente_635,86,7,3980.0,3,5,4,354,Loyal Customers
+296,Cliente_296,85,1,1050.0,3,1,2,312,Hibernating / Lost
+628,Cliente_628,85,3,3230.0,3,3,4,334,Loyal Customers
+673,Cliente_673,85,3,4170.0,3,4,4,344,Loyal Customers
+300,Cliente_300,85,4,2465.0,3,4,3,343,Loyal Customers
+348,Cliente_348,85,4,3025.0,3,4,4,344,Loyal Customers
+988,Cliente_988,85,6,8320.0,3,5,5,355,Loyal Customers
+970,Cliente_970,85,7,6665.0,3,5,5,355,Loyal Customers
+402,Cliente_402,85,8,4695.0,3,5,5,355,Loyal Customers
+165,Cliente_165,85,8,5035.0,3,5,5,355,Loyal Customers
+326,Cliente_326,84,1,250.0,3,1,1,311,Hibernating / Lost
+737,Cliente_737,84,5,4525.0,3,4,4,344,Loyal Customers
+188,Cliente_188,84,6,3815.0,3,5,4,354,Loyal Customers
+703,Cliente_703,83,1,180.0,3,1,1,311,Hibernating / Lost
+999,Cliente_999,83,1,855.0,3,1,2,312,Hibernating / Lost
+747,Cliente_747,83,3,1925.0,3,3,3,333,Loyal Customers
+757,Cliente_757,82,3,995.0,3,3,2,332,Loyal Customers
+563,Cliente_563,82,6,8090.0,3,5,5,355,Loyal Customers
+280,Cliente_280,81,4,5460.0,3,4,5,345,Loyal Customers
+953,Cliente_953,81,6,6595.0,3,5,5,355,Loyal Customers
+414,Cliente_414,81,8,5000.0,3,5,5,355,Loyal Customers
+655,Cliente_655,81,8,8660.0,3,5,5,355,Loyal Customers
+627,Cliente_627,80,2,495.0,3,2,1,321,Hibernating / Lost
+283,Cliente_283,80,3,1290.0,3,3,2,332,Loyal Customers
+352,Cliente_352,80,3,4500.0,3,4,4,344,Loyal Customers
+613,Cliente_613,79,1,2520.0,3,2,3,323,Hibernating / Lost
+48,Cliente_48,79,2,345.0,3,2,1,321,Hibernating / Lost
+274,Cliente_274,79,2,2505.0,3,3,3,333,Loyal Customers
+397,Cliente_397,79,2,4105.0,3,3,4,334,Loyal Customers
+217,Cliente_217,79,3,1585.0,3,3,2,332,Loyal Customers
+157,Cliente_157,79,3,2040.0,3,3,3,333,Loyal Customers
+86,Cliente_86,79,4,5515.0,3,4,5,345,Loyal Customers
+295,Cliente_295,78,4,2545.0,3,4,3,343,Loyal Customers
+753,Cliente_753,78,5,3510.0,3,4,4,344,Loyal Customers
+789,Cliente_789,78,5,7550.0,3,5,5,355,Loyal Customers
+871,Cliente_871,78,8,3400.0,3,5,4,354,Loyal Customers
+813,Cliente_813,77,1,650.0,3,1,1,311,Hibernating / Lost
+5,Cliente_5,77,1,3000.0,3,2,4,324,Hibernating / Lost
+75,Cliente_75,77,2,710.0,3,2,1,321,Hibernating / Lost
+375,Cliente_375,77,3,1870.0,3,3,3,333,Loyal Customers
+814,Cliente_814,77,4,4830.0,3,4,5,345,Loyal Customers
+815,Cliente_815,77,5,5915.0,3,5,5,355,Loyal Customers
+777,Cliente_777,77,8,8655.0,3,5,5,355,Loyal Customers
+604,Cliente_604,76,1,1300.0,3,2,2,322,Hibernating / Lost
+526,Cliente_526,76,2,695.0,3,2,1,321,Hibernating / Lost
+240,Cliente_240,76,2,1315.0,3,2,2,322,Hibernating / Lost
+589,Cliente_589,76,5,3105.0,3,4,4,344,Loyal Customers
+506,Cliente_506,75,2,855.0,3,2,2,322,Hibernating / Lost
+311,Cliente_311,75,3,625.0,3,3,1,331,Loyal Customers
+755,Cliente_755,75,3,2415.0,3,3,3,333,Loyal Customers
+861,Cliente_861,74,1,460.0,3,1,1,311,Hibernating / Lost
+160,Cliente_160,74,2,1575.0,3,2,2,322,Hibernating / Lost
+981,Cliente_981,74,2,2395.0,3,3,3,333,Loyal Customers
+682,Cliente_682,74,2,4235.0,3,3,4,334,Loyal Customers
+343,Cliente_343,74,8,6055.0,3,5,5,355,Loyal Customers
+528,Cliente_528,73,3,2370.0,3,3,3,333,Loyal Customers
+943,Cliente_943,73,8,7325.0,3,5,5,355,Loyal Customers
+293,Cliente_293,72,2,325.0,3,2,1,321,Hibernating / Lost
+88,Cliente_88,72,2,3765.0,3,3,4,334,Loyal Customers
+355,Cliente_355,72,3,1520.0,3,3,2,332,Loyal Customers
+405,Cliente_405,72,3,2285.0,3,3,3,333,Loyal Customers
+292,Cliente_292,72,4,2740.0,3,4,4,344,Loyal Customers
+634,Cliente_634,72,4,3415.0,3,4,4,344,Loyal Customers
+445,Cliente_445,72,5,1745.0,3,4,3,343,Loyal Customers
+331,Cliente_331,71,1,1340.0,3,2,2,322,Hibernating / Lost
+261,Cliente_261,71,2,2865.0,3,3,4,334,Loyal Customers
+91,Cliente_91,71,5,2550.0,3,4,3,343,Loyal Customers
+486,Cliente_486,70,3,680.0,3,3,1,331,Loyal Customers
+179,Cliente_179,70,3,2645.0,3,3,3,333,Loyal Customers
+147,Cliente_147,70,6,5740.0,3,5,5,355,Loyal Customers
+620,Cliente_620,70,8,10900.0,3,5,5,355,Loyal Customers
+488,Cliente_488,69,1,90.0,3,1,1,311,Hibernating / Lost
+389,Cliente_389,69,1,555.0,3,1,1,311,Hibernating / Lost
+119,Cliente_119,69,2,2080.0,3,3,3,333,Loyal Customers
+150,Cliente_150,69,3,2620.0,3,3,3,333,Loyal Customers
+107,Cliente_107,69,4,2555.0,3,4,3,343,Loyal Customers
+126,Cliente_126,69,5,2395.0,3,4,3,343,Loyal Customers
+398,Cliente_398,68,1,250.0,3,1,1,311,Hibernating / Lost
+316,Cliente_316,68,6,7070.0,3,5,5,355,Loyal Customers
+453,Cliente_453,68,8,9345.0,3,5,5,355,Loyal Customers
+315,Cliente_315,67,2,3560.0,3,3,4,334,Loyal Customers
+543,Cliente_543,67,3,2470.0,3,3,3,333,Loyal Customers
+297,Cliente_297,67,3,4245.0,3,4,4,344,Loyal Customers
+954,Cliente_954,67,3,5640.0,4,4,5,445,Champions (VIP)
+265,Cliente_265,67,8,8210.0,4,5,5,455,Champions (VIP)
+230,Cliente_230,66,1,65.0,4,1,1,411,New & Promising
+257,Cliente_257,65,1,2750.0,4,2,4,424,New & Promising
+678,Cliente_678,65,5,1035.0,4,4,2,442,Loyal Customers
+302,Cliente_302,65,6,3355.0,4,5,4,454,Champions (VIP)
+308,Cliente_308,64,1,90.0,4,1,1,411,New & Promising
+304,Cliente_304,64,1,660.0,4,1,1,411,New & Promising
+372,Cliente_372,64,2,305.0,4,2,1,421,New & Promising
+440,Cliente_440,64,2,525.0,4,2,1,421,New & Promising
+986,Cliente_986,64,3,4265.0,4,4,4,444,Champions (VIP)
+581,Cliente_581,64,6,11440.0,4,5,5,455,Champions (VIP)
+847,Cliente_847,63,2,2275.0,4,3,3,433,Loyal Customers
+350,Cliente_350,63,8,8490.0,4,5,5,455,Champions (VIP)
+924,Cliente_924,62,1,360.0,4,1,1,411,New & Promising
+422,Cliente_422,62,1,730.0,4,1,2,412,New & Promising
+71,Cliente_71,62,2,575.0,4,2,1,421,New & Promising
+399,Cliente_399,62,2,1515.0,4,2,2,422,New & Promising
+855,Cliente_855,62,6,1900.0,4,5,3,453,Loyal Customers
+457,Cliente_457,62,6,7370.0,4,5,5,455,Champions (VIP)
+840,Cliente_840,61,3,2315.0,4,3,3,433,Loyal Customers
+864,Cliente_864,61,4,2725.0,4,4,4,444,Champions (VIP)
+370,Cliente_370,61,6,9570.0,4,5,5,455,Champions (VIP)
+885,Cliente_885,61,8,7250.0,4,5,5,455,Champions (VIP)
+489,Cliente_489,60,1,250.0,4,1,1,411,New & Promising
+617,Cliente_617,59,4,4535.0,4,4,4,444,Champions (VIP)
+816,Cliente_816,59,5,2640.0,4,4,3,443,Loyal Customers
+325,Cliente_325,59,5,2980.0,4,4,4,444,Champions (VIP)
+171,Cliente_171,59,8,6525.0,4,5,5,455,Champions (VIP)
+288,Cliente_288,58,3,1870.0,4,3,3,433,Loyal Customers
+850,Cliente_850,58,3,2590.0,4,3,3,433,Loyal Customers
+677,Cliente_677,58,5,7695.0,4,5,5,455,Champions (VIP)
+282,Cliente_282,58,7,6125.0,4,5,5,455,Champions (VIP)
+740,Cliente_740,57,2,2020.0,4,3,3,433,Loyal Customers
+38,Cliente_38,57,3,4620.0,4,4,5,445,Champions (VIP)
+178,Cliente_178,57,4,3395.0,4,4,4,444,Champions (VIP)
+907,Cliente_907,57,8,5485.0,4,5,5,455,Champions (VIP)
+884,Cliente_884,56,1,1605.0,4,2,2,422,New & Promising
+949,Cliente_949,56,2,230.0,4,2,1,421,New & Promising
+51,Cliente_51,56,2,1550.0,4,2,2,422,New & Promising
+1000,Cliente_1000,56,2,1725.0,4,3,3,433,Loyal Customers
+902,Cliente_902,56,2,2380.0,4,3,3,433,Loyal Customers
+638,Cliente_638,56,3,3430.0,4,4,4,444,Champions (VIP)
+848,Cliente_848,56,4,4030.0,4,4,4,444,Champions (VIP)
+795,Cliente_795,56,4,4135.0,4,4,4,444,Champions (VIP)
+937,Cliente_937,56,5,1685.0,4,4,3,443,Loyal Customers
+495,Cliente_495,56,5,4265.0,4,4,4,444,Champions (VIP)
+349,Cliente_349,56,6,4705.0,4,5,5,455,Champions (VIP)
+732,Cliente_732,56,7,5580.0,4,5,5,455,Champions (VIP)
+34,Cliente_34,55,3,3120.0,4,3,4,434,Loyal Customers
+13,Cliente_13,55,4,3000.0,4,4,4,444,Champions (VIP)
+481,Cliente_481,55,4,3700.0,4,4,4,444,Champions (VIP)
+112,Cliente_112,55,5,4135.0,4,4,4,444,Champions (VIP)
+120,Cliente_120,55,8,3155.0,4,5,4,454,Champions (VIP)
+141,Cliente_141,55,8,6165.0,4,5,5,455,Champions (VIP)
+664,Cliente_664,54,3,1260.0,4,3,2,432,Loyal Customers
+859,Cliente_859,54,3,1795.0,4,3,3,433,Loyal Customers
+940,Cliente_940,54,4,2600.0,4,4,3,443,Loyal Customers
+544,Cliente_544,54,6,5455.0,4,5,5,455,Champions (VIP)
+989,Cliente_989,54,7,5150.0,4,5,5,455,Champions (VIP)
+441,Cliente_441,53,1,400.0,4,1,1,411,New & Promising
+671,Cliente_671,53,1,635.0,4,1,1,411,New & Promising
+22,Cliente_22,53,1,2185.0,4,2,3,423,New & Promising
+18,Cliente_18,53,1,2400.0,4,2,3,423,New & Promising
+985,Cliente_985,53,2,3920.0,4,3,4,434,Loyal Customers
+889,Cliente_889,53,3,2570.0,4,3,3,433,Loyal Customers
+879,Cliente_879,53,4,3845.0,4,4,4,444,Champions (VIP)
+87,Cliente_87,52,1,845.0,4,1,2,412,New & Promising
+851,Cliente_851,52,3,495.0,4,3,1,431,Loyal Customers
+592,Cliente_592,52,3,2480.0,4,3,3,433,Loyal Customers
+322,Cliente_322,52,4,740.0,4,4,2,442,Loyal Customers
+493,Cliente_493,52,4,3415.0,4,4,4,444,Champions (VIP)
+669,Cliente_669,51,1,765.0,4,1,2,412,New & Promising
+276,Cliente_276,51,2,1700.0,4,3,3,433,Loyal Customers
+25,Cliente_25,51,4,4440.0,4,4,4,444,Champions (VIP)
+460,Cliente_460,51,4,7180.0,4,4,5,445,Champions (VIP)
+994,Cliente_994,51,4,8805.0,4,4,5,445,Champions (VIP)
+479,Cliente_479,50,2,590.0,4,2,1,421,New & Promising
+220,Cliente_220,50,2,1350.0,4,2,2,422,New & Promising
+615,Cliente_615,50,3,1570.0,4,3,2,432,Loyal Customers
+763,Cliente_763,50,4,6870.0,4,4,5,445,Champions (VIP)
+946,Cliente_946,50,5,4165.0,4,4,4,444,Champions (VIP)
+913,Cliente_913,49,2,1310.0,4,2,2,422,New & Promising
+983,Cliente_983,49,3,2325.0,4,3,3,433,Loyal Customers
+701,Cliente_701,49,4,2600.0,4,4,3,443,Loyal Customers
+507,Cliente_507,49,5,3470.0,4,4,4,444,Champions (VIP)
+184,Cliente_184,49,5,6195.0,4,5,5,455,Champions (VIP)
+287,Cliente_287,49,6,4525.0,4,5,4,454,Champions (VIP)
+465,Cliente_465,49,6,5080.0,4,5,5,455,Champions (VIP)
+881,Cliente_881,49,7,5465.0,4,5,5,455,Champions (VIP)
+807,Cliente_807,49,8,7085.0,4,5,5,455,Champions (VIP)
+201,Cliente_201,49,8,9790.0,4,5,5,455,Champions (VIP)
+96,Cliente_96,48,2,5570.0,4,3,5,435,Loyal Customers
+694,Cliente_694,48,6,6020.0,4,5,5,455,Champions (VIP)
+945,Cliente_945,48,6,8410.0,4,5,5,455,Champions (VIP)
+887,Cliente_887,48,7,4025.0,4,5,4,454,Champions (VIP)
+750,Cliente_750,48,8,2815.0,4,5,4,454,Champions (VIP)
+281,Cliente_281,48,8,6610.0,4,5,5,455,Champions (VIP)
+972,Cliente_972,48,8,8490.0,4,5,5,455,Champions (VIP)
+781,Cliente_781,48,8,8525.0,4,5,5,455,Champions (VIP)
+845,Cliente_845,47,2,1045.0,4,2,2,422,New & Promising
+939,Cliente_939,47,2,3325.0,4,3,4,434,Loyal Customers
+167,Cliente_167,47,4,4330.0,4,4,4,444,Champions (VIP)
+338,Cliente_338,47,5,3740.0,4,4,4,444,Champions (VIP)
+514,Cliente_514,47,6,5620.0,4,5,5,455,Champions (VIP)
+434,Cliente_434,47,6,7140.0,4,5,5,455,Champions (VIP)
+27,Cliente_27,46,1,1500.0,4,2,2,422,New & Promising
+49,Cliente_49,46,2,2615.0,4,3,3,433,Loyal Customers
+108,Cliente_108,46,3,2545.0,4,3,3,433,Loyal Customers
+886,Cliente_886,46,3,2765.0,4,3,4,434,Loyal Customers
+830,Cliente_830,46,4,3970.0,4,4,4,444,Champions (VIP)
+46,Cliente_46,46,4,4630.0,4,4,5,445,Champions (VIP)
+66,Cliente_66,46,4,4980.0,4,4,5,445,Champions (VIP)
+275,Cliente_275,46,8,5660.0,4,5,5,455,Champions (VIP)
+553,Cliente_553,45,1,65.0,4,1,1,411,New & Promising
+83,Cliente_83,45,3,2420.0,4,3,3,433,Loyal Customers
+44,Cliente_44,45,4,1210.0,4,4,2,442,Loyal Customers
+683,Cliente_683,45,4,1835.0,4,4,3,443,Loyal Customers
+467,Cliente_467,45,4,6530.0,4,4,5,445,Champions (VIP)
+768,Cliente_768,45,6,6515.0,4,5,5,455,Champions (VIP)
+180,Cliente_180,45,8,4800.0,4,5,5,455,Champions (VIP)
+362,Cliente_362,44,3,3290.0,4,3,4,434,Loyal Customers
+527,Cliente_527,44,3,3885.0,4,4,4,444,Champions (VIP)
+286,Cliente_286,44,5,3525.0,4,4,4,444,Champions (VIP)
+890,Cliente_890,44,5,5170.0,4,5,5,455,Champions (VIP)
+839,Cliente_839,44,6,6305.0,4,5,5,455,Champions (VIP)
+772,Cliente_772,44,6,6985.0,4,5,5,455,Champions (VIP)
+968,Cliente_968,44,7,3530.0,4,5,4,454,Champions (VIP)
+646,Cliente_646,43,1,805.0,4,1,2,412,New & Promising
+895,Cliente_895,43,1,935.0,4,1,2,412,New & Promising
+974,Cliente_974,43,2,1295.0,4,2,2,422,New & Promising
+852,Cliente_852,43,3,3360.0,4,4,4,444,Champions (VIP)
+680,Cliente_680,43,4,3295.0,4,4,4,444,Champions (VIP)
+367,Cliente_367,43,4,3460.0,4,4,4,444,Champions (VIP)
+4,Cliente_4,43,4,3530.0,4,4,4,444,Champions (VIP)
+700,Cliente_700,42,1,400.0,4,1,1,411,New & Promising
+966,Cliente_966,42,1,700.0,4,1,1,411,New & Promising
+9,Cliente_9,42,2,195.0,4,2,1,421,New & Promising
+748,Cliente_748,42,2,580.0,4,2,1,421,New & Promising
+863,Cliente_863,42,7,4575.0,4,5,4,454,Champions (VIP)
+503,Cliente_503,42,7,5005.0,4,5,5,455,Champions (VIP)
+132,Cliente_132,42,8,6550.0,4,5,5,455,Champions (VIP)
+319,Cliente_319,41,1,65.0,4,1,1,411,New & Promising
+837,Cliente_837,41,1,110.0,4,1,1,411,New & Promising
+438,Cliente_438,41,2,955.0,4,2,2,422,New & Promising
+522,Cliente_522,41,7,7695.0,4,5,5,455,Champions (VIP)
+552,Cliente_552,40,3,3180.0,4,3,4,434,Loyal Customers
+665,Cliente_665,40,5,6680.0,4,5,5,455,Champions (VIP)
+568,Cliente_568,40,8,5980.0,4,5,5,455,Champions (VIP)
+784,Cliente_784,39,2,1010.0,4,2,2,422,New & Promising
+817,Cliente_817,39,3,2305.0,4,3,3,433,Loyal Customers
+79,Cliente_79,39,4,4120.0,4,4,4,444,Champions (VIP)
+231,Cliente_231,38,1,885.0,4,1,2,412,New & Promising
+318,Cliente_318,38,2,1845.0,4,3,3,433,Loyal Customers
+880,Cliente_880,38,3,2725.0,4,3,4,434,Loyal Customers
+144,Cliente_144,38,6,5865.0,4,5,5,455,Champions (VIP)
+238,Cliente_238,38,7,7095.0,4,5,5,455,Champions (VIP)
+991,Cliente_991,38,8,7015.0,4,5,5,455,Champions (VIP)
+651,Cliente_651,38,8,9205.0,4,5,5,455,Champions (VIP)
+995,Cliente_995,37,1,1725.0,4,2,3,423,New & Promising
+987,Cliente_987,37,2,1505.0,4,2,2,422,New & Promising
+409,Cliente_409,37,5,4590.0,4,4,5,445,Champions (VIP)
+236,Cliente_236,36,3,2695.0,4,3,4,434,Loyal Customers
+494,Cliente_494,36,3,3065.0,4,3,4,434,Loyal Customers
+547,Cliente_547,35,1,85.0,4,1,1,411,New & Promising
+136,Cliente_136,35,1,1270.0,4,2,2,422,New & Promising
+378,Cliente_378,35,1,1375.0,4,2,2,422,New & Promising
+557,Cliente_557,35,2,1900.0,4,3,3,433,Loyal Customers
+645,Cliente_645,35,3,2145.0,4,3,3,433,Loyal Customers
+914,Cliente_914,35,3,3295.0,4,3,4,434,Loyal Customers
+56,Cliente_56,35,4,3655.0,4,4,4,444,Champions (VIP)
+736,Cliente_736,35,6,2670.0,4,5,3,453,Loyal Customers
+762,Cliente_762,35,8,4890.0,4,5,5,455,Champions (VIP)
+442,Cliente_442,34,1,1650.0,4,2,2,422,New & Promising
+176,Cliente_176,34,2,610.0,4,2,1,421,New & Promising
+622,Cliente_622,34,3,1530.0,4,3,2,432,Loyal Customers
+104,Cliente_104,34,3,4055.0,4,4,4,444,Champions (VIP)
+14,Cliente_14,34,4,1300.0,4,4,2,442,Loyal Customers
+263,Cliente_263,34,4,2375.0,4,4,3,443,Loyal Customers
+305,Cliente_305,34,4,4785.0,4,4,5,445,Champions (VIP)
+78,Cliente_78,33,4,3990.0,4,4,4,444,Champions (VIP)
+198,Cliente_198,33,5,1315.0,4,4,2,442,Loyal Customers
+583,Cliente_583,33,5,2410.0,4,4,3,443,Loyal Customers
+720,Cliente_720,33,6,5235.0,4,5,5,455,Champions (VIP)
+785,Cliente_785,33,6,6070.0,4,5,5,455,Champions (VIP)
+245,Cliente_245,33,7,3400.0,4,5,4,454,Champions (VIP)
+485,Cliente_485,33,7,5320.0,4,5,5,455,Champions (VIP)
+958,Cliente_958,32,3,2535.0,4,3,3,433,Loyal Customers
+745,Cliente_745,32,3,3060.0,4,3,4,434,Loyal Customers
+216,Cliente_216,32,4,2690.0,4,4,4,444,Champions (VIP)
+35,Cliente_35,32,4,4520.0,4,4,4,444,Champions (VIP)
+711,Cliente_711,32,6,7495.0,4,5,5,455,Champions (VIP)
+961,Cliente_961,31,5,2680.0,4,4,3,443,Loyal Customers
+644,Cliente_644,30,1,955.0,4,1,2,412,New & Promising
+433,Cliente_433,30,1,2790.0,4,2,4,424,New & Promising
+667,Cliente_667,30,1,3010.0,4,2,4,424,New & Promising
+567,Cliente_567,30,2,340.0,4,2,1,421,New & Promising
+867,Cliente_867,30,2,825.0,4,2,2,422,New & Promising
+892,Cliente_892,30,2,1805.0,4,3,3,433,Loyal Customers
+95,Cliente_95,30,3,4405.0,4,4,4,444,Champions (VIP)
+24,Cliente_24,30,5,5770.0,5,5,5,555,Champions (VIP)
+470,Cliente_470,30,6,6540.0,5,5,5,555,Champions (VIP)
+865,Cliente_865,30,8,6530.0,5,5,5,555,Champions (VIP)
+891,Cliente_891,30,8,7555.0,5,5,5,555,Champions (VIP)
+574,Cliente_574,30,8,8785.0,5,5,5,555,Champions (VIP)
+156,Cliente_156,29,4,7955.0,5,4,5,545,Champions (VIP)
+668,Cliente_668,29,8,5840.0,5,5,5,555,Champions (VIP)
+105,Cliente_105,29,8,7750.0,5,5,5,555,Champions (VIP)
+965,Cliente_965,28,1,500.0,5,1,1,511,New & Promising
+636,Cliente_636,28,2,330.0,5,2,1,521,New & Promising
+11,Cliente_11,28,2,1820.0,5,3,3,533,Loyal Customers
+597,Cliente_597,28,5,3780.0,5,4,4,544,Champions (VIP)
+64,Cliente_64,28,6,3190.0,5,5,4,554,Champions (VIP)
+721,Cliente_721,27,2,1855.0,5,3,3,533,Loyal Customers
+23,Cliente_23,27,3,5945.0,5,4,5,545,Champions (VIP)
+394,Cliente_394,27,4,4180.0,5,4,4,544,Champions (VIP)
+973,Cliente_973,27,8,5685.0,5,5,5,555,Champions (VIP)
+955,Cliente_955,26,6,6125.0,5,5,5,555,Champions (VIP)
+822,Cliente_822,26,6,6155.0,5,5,5,555,Champions (VIP)
+124,Cliente_124,26,7,5905.0,5,5,5,555,Champions (VIP)
+346,Cliente_346,26,8,2710.0,5,5,4,554,Champions (VIP)
+909,Cliente_909,26,8,3445.0,5,5,4,554,Champions (VIP)
+932,Cliente_932,26,8,4805.0,5,5,5,555,Champions (VIP)
+551,Cliente_551,26,8,7965.0,5,5,5,555,Champions (VIP)
+805,Cliente_805,25,1,1375.0,5,2,2,522,New & Promising
+189,Cliente_189,25,2,1530.0,5,2,2,522,New & Promising
+328,Cliente_328,25,3,4285.0,5,4,4,544,Champions (VIP)
+432,Cliente_432,25,6,3375.0,5,5,4,554,Champions (VIP)
+421,Cliente_421,25,7,5140.0,5,5,5,555,Champions (VIP)
+50,Cliente_50,24,1,750.0,5,1,2,512,New & Promising
+780,Cliente_780,24,3,2470.0,5,3,3,533,Loyal Customers
+925,Cliente_925,24,3,4495.0,5,4,4,544,Champions (VIP)
+110,Cliente_110,24,4,2405.0,5,4,3,543,Loyal Customers
+819,Cliente_819,24,4,4455.0,5,4,4,544,Champions (VIP)
+387,Cliente_387,24,4,4635.0,5,4,5,545,Champions (VIP)
+910,Cliente_910,24,5,1625.0,5,4,2,542,Loyal Customers
+532,Cliente_532,24,5,4920.0,5,4,5,545,Champions (VIP)
+205,Cliente_205,24,6,3860.0,5,5,4,554,Champions (VIP)
+912,Cliente_912,23,1,440.0,5,1,1,511,New & Promising
+872,Cliente_872,23,1,1505.0,5,2,2,522,New & Promising
+187,Cliente_187,23,1,2400.0,5,2,3,523,New & Promising
+186,Cliente_186,23,3,1940.0,5,3,3,533,Loyal Customers
+799,Cliente_799,23,3,3955.0,5,4,4,544,Champions (VIP)
+101,Cliente_101,23,4,5195.0,5,4,5,545,Champions (VIP)
+161,Cliente_161,23,5,1590.0,5,4,2,542,Loyal Customers
+194,Cliente_194,23,6,3150.0,5,5,4,554,Champions (VIP)
+549,Cliente_549,23,8,7280.0,5,5,5,555,Champions (VIP)
+980,Cliente_980,22,1,240.0,5,1,1,511,New & Promising
+529,Cliente_529,22,1,3075.0,5,2,4,524,New & Promising
+761,Cliente_761,22,2,1430.0,5,2,2,522,New & Promising
+672,Cliente_672,22,2,1920.0,5,3,3,533,Loyal Customers
+484,Cliente_484,22,3,785.0,5,3,2,532,Loyal Customers
+218,Cliente_218,22,3,2335.0,5,3,3,533,Loyal Customers
+464,Cliente_464,22,4,1220.0,5,4,2,542,Loyal Customers
+717,Cliente_717,22,4,2460.0,5,4,3,543,Loyal Customers
+191,Cliente_191,22,4,6145.0,5,4,5,545,Champions (VIP)
+601,Cliente_601,22,5,3950.0,5,4,4,544,Champions (VIP)
+153,Cliente_153,22,5,4885.0,5,4,5,545,Champions (VIP)
+542,Cliente_542,22,6,2695.0,5,5,4,554,Champions (VIP)
+828,Cliente_828,22,7,2515.0,5,5,3,553,Loyal Customers
+294,Cliente_294,22,7,8295.0,5,5,5,555,Champions (VIP)
+80,Cliente_80,22,8,8365.0,5,5,5,555,Champions (VIP)
+944,Cliente_944,21,2,1060.0,5,2,2,522,New & Promising
+388,Cliente_388,21,3,3335.0,5,3,4,534,Loyal Customers
+404,Cliente_404,21,5,3365.0,5,4,4,544,Champions (VIP)
+347,Cliente_347,21,5,3700.0,5,4,4,544,Champions (VIP)
+658,Cliente_658,20,3,2170.0,5,3,3,533,Loyal Customers
+32,Cliente_32,20,4,1290.0,5,4,2,542,Loyal Customers
+853,Cliente_853,20,4,2365.0,5,4,3,543,Loyal Customers
+208,Cliente_208,20,4,3285.0,5,4,4,544,Champions (VIP)
+114,Cliente_114,20,6,4125.0,5,5,4,554,Champions (VIP)
+20,Cliente_20,20,6,5210.0,5,5,5,555,Champions (VIP)
+312,Cliente_312,20,8,6490.0,5,5,5,555,Champions (VIP)
+666,Cliente_666,20,8,8170.0,5,5,5,555,Champions (VIP)
+835,Cliente_835,19,2,1350.0,5,2,2,522,New & Promising
+353,Cliente_353,19,3,2470.0,5,3,3,533,Loyal Customers
+719,Cliente_719,19,4,3850.0,5,4,4,544,Champions (VIP)
+473,Cliente_473,19,5,4655.0,5,4,5,545,Champions (VIP)
+607,Cliente_607,19,7,5250.0,5,5,5,555,Champions (VIP)
+996,Cliente_996,19,8,8010.0,5,5,5,555,Champions (VIP)
+59,Cliente_59,18,1,570.0,5,1,1,511,New & Promising
+591,Cliente_591,18,1,1600.0,5,2,2,522,New & Promising
+652,Cliente_652,18,1,1690.0,5,2,3,523,New & Promising
+788,Cliente_788,18,3,2820.0,5,3,4,534,Loyal Customers
+546,Cliente_546,18,3,2925.0,5,3,4,534,Loyal Customers
+3,Cliente_3,18,3,3410.0,5,4,4,544,Champions (VIP)
+724,Cliente_724,18,3,5205.0,5,4,5,545,Champions (VIP)
+806,Cliente_806,18,4,1565.0,5,4,2,542,Loyal Customers
+896,Cliente_896,18,4,3315.0,5,4,4,544,Champions (VIP)
+605,Cliente_605,18,6,5405.0,5,5,5,555,Champions (VIP)
+502,Cliente_502,17,2,1645.0,5,3,2,532,Loyal Customers
+354,Cliente_354,17,3,3135.0,5,3,4,534,Loyal Customers
+140,Cliente_140,17,5,2125.0,5,4,3,543,Loyal Customers
+882,Cliente_882,17,6,5135.0,5,5,5,555,Champions (VIP)
+40,Cliente_40,17,6,5850.0,5,5,5,555,Champions (VIP)
+697,Cliente_697,17,6,6520.0,5,5,5,555,Champions (VIP)
+374,Cliente_374,17,8,3765.0,5,5,4,554,Champions (VIP)
+384,Cliente_384,16,1,155.0,5,1,1,511,New & Promising
+89,Cliente_89,16,1,2585.0,5,2,3,523,New & Promising
+633,Cliente_633,16,2,1400.0,5,2,2,522,New & Promising
+427,Cliente_427,16,2,1890.0,5,3,3,533,Loyal Customers
+364,Cliente_364,16,5,8030.0,5,5,5,555,Champions (VIP)
+858,Cliente_858,16,5,10510.0,5,5,5,555,Champions (VIP)
+843,Cliente_843,15,2,1640.0,5,3,2,532,Loyal Customers
+710,Cliente_710,15,3,3085.0,5,3,4,534,Loyal Customers
+588,Cliente_588,14,1,320.0,5,1,1,511,New & Promising
+606,Cliente_606,14,4,2065.0,5,4,3,543,Loyal Customers
+53,Cliente_53,14,5,4420.0,5,4,4,544,Champions (VIP)
+993,Cliente_993,14,6,4115.0,5,5,4,554,Champions (VIP)
+951,Cliente_951,14,8,6920.0,5,5,5,555,Champions (VIP)
+290,Cliente_290,13,1,1390.0,5,2,2,522,New & Promising
+695,Cliente_695,13,4,2445.0,5,4,3,543,Loyal Customers
+345,Cliente_345,13,4,3855.0,5,4,4,544,Champions (VIP)
+272,Cliente_272,13,5,2620.0,5,4,3,543,Loyal Customers
+58,Cliente_58,12,1,465.0,5,1,1,511,New & Promising
+600,Cliente_600,12,2,2195.0,5,3,3,533,Loyal Customers
+43,Cliente_43,12,4,1915.0,5,4,3,543,Loyal Customers
+233,Cliente_233,12,4,2155.0,5,4,3,543,Loyal Customers
+100,Cliente_100,12,4,5620.0,5,4,5,545,Champions (VIP)
+202,Cliente_202,12,5,5830.0,5,5,5,555,Champions (VIP)
+758,Cliente_758,12,7,3870.0,5,5,4,554,Champions (VIP)
+260,Cliente_260,12,8,4685.0,5,5,5,555,Champions (VIP)
+214,Cliente_214,12,8,6600.0,5,5,5,555,Champions (VIP)
+111,Cliente_111,12,8,7645.0,5,5,5,555,Champions (VIP)
+676,Cliente_676,12,8,9040.0,5,5,5,555,Champions (VIP)
+729,Cliente_729,11,1,1350.0,5,2,2,522,New & Promising
+699,Cliente_699,11,2,3540.0,5,3,4,534,Loyal Customers
+266,Cliente_266,11,8,5845.0,5,5,5,555,Champions (VIP)
+824,Cliente_824,11,8,8465.0,5,5,5,555,Champions (VIP)
+585,Cliente_585,10,1,500.0,5,1,1,511,New & Promising
+215,Cliente_215,10,3,2245.0,5,3,3,533,Loyal Customers
+660,Cliente_660,10,3,2355.0,5,3,3,533,Loyal Customers
+854,Cliente_854,10,3,3230.0,5,3,4,534,Loyal Customers
+624,Cliente_624,10,4,4065.0,5,4,4,544,Champions (VIP)
+371,Cliente_371,10,6,4280.0,5,5,4,554,Champions (VIP)
+29,Cliente_29,10,6,6690.0,5,5,5,555,Champions (VIP)
+159,Cliente_159,10,6,8020.0,5,5,5,555,Champions (VIP)
+821,Cliente_821,10,7,4645.0,5,5,5,555,Champions (VIP)
+99,Cliente_99,10,8,4875.0,5,5,5,555,Champions (VIP)
+363,Cliente_363,9,1,360.0,5,1,1,511,New & Promising
+466,Cliente_466,9,1,1660.0,5,2,3,523,New & Promising
+862,Cliente_862,9,1,2285.0,5,2,3,523,New & Promising
+228,Cliente_228,9,2,435.0,5,2,1,521,New & Promising
+163,Cliente_163,9,3,820.0,5,3,2,532,Loyal Customers
+458,Cliente_458,9,4,2290.0,5,4,3,543,Loyal Customers
+587,Cliente_587,9,4,4190.0,5,4,4,544,Champions (VIP)
+381,Cliente_381,9,5,4300.0,5,4,4,544,Champions (VIP)
+377,Cliente_377,9,6,3995.0,5,5,4,554,Champions (VIP)
+510,Cliente_510,9,6,11820.0,5,5,5,555,Champions (VIP)
+255,Cliente_255,9,8,7665.0,5,5,5,555,Champions (VIP)
+642,Cliente_642,9,8,8350.0,5,5,5,555,Champions (VIP)
+461,Cliente_461,8,1,510.0,5,1,1,511,New & Promising
+566,Cliente_566,8,2,1170.0,5,2,2,522,New & Promising
+264,Cliente_264,8,2,2750.0,5,3,4,534,Loyal Customers
+856,Cliente_856,8,4,3745.0,5,4,4,544,Champions (VIP)
+956,Cliente_956,8,5,2945.0,5,4,4,544,Champions (VIP)
+661,Cliente_661,8,5,4845.0,5,4,5,545,Champions (VIP)
+254,Cliente_254,8,5,5390.0,5,5,5,555,Champions (VIP)
+877,Cliente_877,8,5,5705.0,5,5,5,555,Champions (VIP)
+915,Cliente_915,8,6,6700.0,5,5,5,555,Champions (VIP)
+917,Cliente_917,8,7,9680.0,5,5,5,555,Champions (VIP)
+920,Cliente_920,8,8,6385.0,5,5,5,555,Champions (VIP)
+102,Cliente_102,8,8,7385.0,5,5,5,555,Champions (VIP)
+209,Cliente_209,7,1,235.0,5,1,1,511,New & Promising
+684,Cliente_684,7,1,1070.0,5,1,2,512,New & Promising
+420,Cliente_420,7,3,3735.0,5,4,4,544,Champions (VIP)
+571,Cliente_571,7,3,4470.0,5,4,4,544,Champions (VIP)
+938,Cliente_938,7,4,1640.0,5,4,2,542,Loyal Customers
+744,Cliente_744,7,4,2660.0,5,4,3,543,Loyal Customers
+733,Cliente_733,7,4,3425.0,5,4,4,544,Champions (VIP)
+584,Cliente_584,7,4,4580.0,5,4,4,544,Champions (VIP)
+984,Cliente_984,7,8,9980.0,5,5,5,555,Champions (VIP)
+16,Cliente_16,6,1,1435.0,5,2,2,522,New & Promising
+424,Cliente_424,6,2,1665.0,5,3,3,533,Loyal Customers
+977,Cliente_977,6,3,1635.0,5,3,2,532,Loyal Customers
+823,Cliente_823,6,4,2390.0,5,4,3,543,Loyal Customers
+702,Cliente_702,6,4,2840.0,5,4,4,544,Champions (VIP)
+323,Cliente_323,6,7,5080.0,5,5,5,555,Champions (VIP)
+556,Cliente_556,6,8,3985.0,5,5,4,554,Champions (VIP)
+463,Cliente_463,6,8,5795.0,5,5,5,555,Champions (VIP)
+8,Cliente_8,6,8,9630.0,5,5,5,555,Champions (VIP)
+696,Cliente_696,5,1,70.0,5,1,1,511,New & Promising
+979,Cliente_979,5,1,860.0,5,1,2,512,New & Promising
+199,Cliente_199,5,1,1015.0,5,1,2,512,New & Promising
+477,Cliente_477,5,3,2530.0,5,3,3,533,Loyal Customers
+504,Cliente_504,5,5,7130.0,5,5,5,555,Champions (VIP)
+746,Cliente_746,5,7,5835.0,5,5,5,555,Champions (VIP)
+278,Cliente_278,5,8,7640.0,5,5,5,555,Champions (VIP)
+247,Cliente_247,4,2,2010.0,5,3,3,533,Loyal Customers
+368,Cliente_368,4,3,830.0,5,3,2,532,Loyal Customers
+92,Cliente_92,4,4,2275.0,5,4,3,543,Loyal Customers
+474,Cliente_474,4,4,2545.0,5,4,3,543,Loyal Customers
+47,Cliente_47,4,6,5515.0,5,5,5,555,Champions (VIP)
+327,Cliente_327,4,7,5885.0,5,5,5,555,Champions (VIP)
+621,Cliente_621,4,8,3885.0,5,5,4,554,Champions (VIP)
+392,Cliente_392,4,8,5965.0,5,5,5,555,Champions (VIP)
+906,Cliente_906,4,8,7120.0,5,5,5,555,Champions (VIP)
+593,Cliente_593,4,8,8210.0,5,5,5,555,Champions (VIP)
+767,Cliente_767,4,8,8950.0,5,5,5,555,Champions (VIP)
+804,Cliente_804,4,8,9600.0,5,5,5,555,Champions (VIP)
