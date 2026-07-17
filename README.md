@@ -46,6 +46,8 @@ CREATE TABLE IF NOT EXISTS order_items (
 );
 ```
 
+---
+
 ## El Proceso de Refinamiento: Del Caos a los Insights
 
 Para entender el valor del proyecto, este es el contraste entre los datos crudos originales y el producto final refinado:
@@ -77,7 +79,6 @@ Tras aplicar el modelado relacional en SQLite y procesar las métricas mediante 
 
 </details>
 
----
 
 
 ---
