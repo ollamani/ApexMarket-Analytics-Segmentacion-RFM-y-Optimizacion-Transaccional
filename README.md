@@ -145,6 +145,8 @@ Para llevar el análisis técnico a un nivel ejecutivo y facilitar la toma de de
 * **Filtrado Cruzado:** Las gráficas interactúan entre sí; hacer clic en cualquier barra segmenta de inmediato el resto del informe.
 * **Enfoque de Negocio:** Una matriz visual con mapas de calor que identifica anomalías de retención y prioriza las listas de acción operativa para los equipos de marketing.
 
+<img width="557" height="418" alt="image" src="https://github.com/user-attachments/assets/f09b7739-c8cc-4955-b15a-b39b235c5f5d" />
+
 👉 **[Interactuar con el Dashboard en Vivo Aquí](https://datastudio.google.com/reporting/1e69cf08-cd70-48d8-b263-c09456ae0b83)**
 
 ---
