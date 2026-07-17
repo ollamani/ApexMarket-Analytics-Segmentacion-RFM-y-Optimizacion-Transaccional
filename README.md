@@ -46,6 +46,40 @@ CREATE TABLE IF NOT EXISTS order_items (
 );
 ```
 
+## El Proceso de Refinamiento: Del Caos a los Insights
+
+Para entender el valor del proyecto, este es el contraste entre los datos crudos originales y el producto final refinado:
+
+<details>
+<summary> Haz clic aquí para ver un ejemplo de los Datos Crudos (Antes)</summary>
+
+Así llegaban originalmente las transacciones al sistema: filas masivas sin clasificar, con fechas planas y montos dispersos que no aportaban valor estratégico por sí solos:
+
+| transaction_id | customer_id | transaction_date | amount | store_id |
+| :--- | :--- | :--- | :--- | :--- |
+| TXN_90812 | Cust_510 | 2026-03-14 | 150.50 | STR_01 |
+| TXN_90813 | Cust_510 | 2026-05-20 | 85.00 | STR_02 |
+| TXN_92144 | Cust_581 | 2025-11-02 | 340.00 | STR_01 |
+| TXN_95311 | Cust_201 | 2026-06-01 | 1200.00 | STR_03 |
+
+</details>
+
+<details>
+<summary> Haz clic aquí para ver los Datos Modelados y Segmentados (Después)</summary>
+
+Tras aplicar el modelado relacional en SQLite y procesar las métricas mediante el algoritmo RFM en Python, transformamos el caos anterior en una matriz de valor de cliente unificada y lista para la toma de decisiones:
+
+| customer_name | segmento_negocio | recency (Días sin compra) | frequency (Compras) | monetary (Gasto Total) |
+| :--- | :--- | :---: | :---: | :---: |
+| Cliente_510 | Champions (VIP) | 9 | 6 | $11,820.00 |
+| Cliente_581 | Champions (VIP) | 64 | 6 | $11,440.00 |
+| Cliente_201 | Champions (VIP) | 49 | 8 | $9,790.00 |
+
+</details>
+
+---
+
+
 ---
 
 ## 2. Extracción y Scoring RFM con SQL Server / SQLite
