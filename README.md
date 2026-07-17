@@ -136,6 +136,19 @@ El análisis consolidado de la salud del negocio revela métricas críticas sobr
 
 ---
 
+## Dashboard Interactivo (Data Studio)
+
+Para llevar el análisis técnico a un nivel ejecutivo y facilitar la toma de decisiones estratégicas, se diseñó un tablero de control interactivo en Data Studio. Este dashboard permite al usuario navegar en tiempo real por el comportamiento financiero de la empresa.
+
+### Características Clave:
+* **Filtrado Dinámico:** Menú desplegable para aislar segmentos específicos (ej. *Champions*, *At Risk*) y recalcular instantáneamente el LTV, los ingresos totales y el volumen de clientes.
+* **Filtrado Cruzado:** Las gráficas interactúan entre sí; hacer clic en cualquier barra segmenta de inmediato el resto del informe.
+* **Enfoque de Negocio:** Una matriz visual con mapas de calor que identifica anomalías de retención y prioriza las listas de acción operativa para los equipos de marketing.
+
+👉 **[Interactuar con el Dashboard en Vivo Aquí](https://datastudio.google.com/reporting/1e69cf08-cd70-48d8-b263-c09456ae0b83)**
+
+---
+
 ## Estructura del Repositorio
 
 ```text
