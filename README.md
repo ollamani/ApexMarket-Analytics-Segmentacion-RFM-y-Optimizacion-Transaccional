@@ -181,7 +181,7 @@ Para llevar el análisis técnico a un nivel ejecutivo y facilitar la toma de de
 <img width="557" height="418" alt="image" src="https://github.com/user-attachments/assets/f09b7739-c8cc-4955-b15a-b39b235c5f5d" />
 
 
-👉 **[Interactuar con el Dashboard en Vivo Aquí](https://datastudio.google.com/reporting/1e69cf08-cd70-48d8-b263-c09456ae0b83)**
+**[Interactuar con el Dashboard en Vivo Aquí](https://datastudio.google.com/reporting/1e69cf08-cd70-48d8-b263-c09456ae0b83)**
 
 ---
 
